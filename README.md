@@ -7,7 +7,7 @@ A small tool that helps you update price in all .po files, show the price or ver
 
 Download the code, then run *npm install -g* to install it globally
 
-### To run:
+Run the following command in your project root:
 
 **npx kpay-price -p newprice
 
