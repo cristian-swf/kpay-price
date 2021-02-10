@@ -9,7 +9,7 @@ Download the code, then run *npm install -g* to install it globally
 
 Run the following command in your project root:
 
-**npx kpay-price -p newprice
+**npx kpay-price -p newprice**
 
 **Options:**
 * -p newprice - replace the old price with the newprice in all .po files
